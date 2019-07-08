@@ -1,0 +1,15 @@
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\bin\Debug\FranchiseeProf.exe
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\bin\Debug\FranchiseeProf.pdb
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\bin\Debug\FranchiseeProf.xml
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.vbprojAssemblyReference.cache
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.pnlMain.resources
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.Resources.resources
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.vbproj.GenerateResource.cache
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.vbproj.CoreCompileInputs.cache
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.exe
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.xml
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.pdb
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.frmCreateNewFranchisee.resources
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.frmAddNewOutlet.resources
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.frmAddContract.resources
+D:\Projects\WTIFranchisee\FranchiseeProfile\FranchiseeProf\obj\Debug\FranchiseeProf.frmUpdateFranchiseeProfile.resources
